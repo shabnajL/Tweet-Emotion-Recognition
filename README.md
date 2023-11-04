@@ -6,13 +6,7 @@ https://shabnajl.github.io/Tweet-Emotion-Recognition/
 
 Text label to numeric label: 
 class_names = ["sadness", "joy", "love", "anger", "fear", "surprise"]
-label (class label)
-0 (sadness)
-1 (joy)
-2 (love)
-3 (anger)
-4 (fear)
-5 (surprise)
+
 
 ![image](https://github.com/shabnajL/Tweet_Emotion_Recognition/assets/29945185/5786b794-6a04-4a59-bbb3-7e4c82596769)
 
